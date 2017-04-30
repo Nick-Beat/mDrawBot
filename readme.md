@@ -1,3 +1,6 @@
+Fork of Makeblock-official/mDrawBot.
+updated firmwares for Spider, Scara, mCar (car-robot).
+
 #mDrawBot ---- Draw Your Own Legend
 
 ## Notes for Mac Users
